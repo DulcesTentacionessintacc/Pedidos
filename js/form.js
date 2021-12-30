@@ -1,4 +1,3 @@
-document.write('<select name="cremas"><option value="">-- ELIJA UN SABOR --</option></select>')
 
 function cambia_cremas(listindex)
 {
