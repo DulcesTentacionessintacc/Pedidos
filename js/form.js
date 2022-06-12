@@ -2384,7 +2384,7 @@ document.querySelector("#submit").addEventListener("click", e => {
 		*¿Cuál es tu nombre?*%0A
 		${cliente}%0A%0A
     *Fecha de entrega*%0A
-		${dias}%0A%0A de ${mes}%0A%0A
+		${dias} de ${mes}%0A%0A
     *Horario*%0A
 		${horario}%0A%0A
 		*Indica el tipo de bizcochuelo*%0A
