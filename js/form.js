@@ -2369,6 +2369,9 @@ document.querySelector("#submit").addEventListener("click", e => {
   let decoracion = document.querySelector("#decoracion").value;
   let tamaño = document.querySelector("#tamaño").value;
   let detalle = document.querySelector("#detalle").value;
+  let dias = document.querySelector("#dias").value;
+  let mes = document.querySelector("#mes").value;
+  let horario = document.querySelector("#horario").value;
   let salida = document.querySelector("#salida").innerHTML;
   let resp = document.querySelector("#respuesta");
 
@@ -2380,6 +2383,10 @@ document.querySelector("#submit").addEventListener("click", e => {
 		*PEDIDO*%0A%0A
 		*¿Cuál es tu nombre?*%0A
 		${cliente}%0A%0A
+    *Fecha de entrega*%0A
+		${dias}%0A%0A de ${mes}%0A%0A
+    *Horario*%0A
+		${horario}%0A%0A
 		*Indica el tipo de bizcochuelo*%0A
 		${bizcochuelo}%0A%0A
 		*Indica el relleno N°1*%0A
