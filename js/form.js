@@ -2368,6 +2368,8 @@ document.querySelector("#submit").addEventListener("click", e => {
   let cremas = document.querySelector("#cremas").value;
   let decoracion = document.querySelector("#decoracion").value;
   let tamaño = document.querySelector("#tamaño").value;
+  let fechas = document.querySelector("#fechas").value;
+  let horario = document.querySelector("#horario").value;
   let detalle = document.querySelector("#detalle").value;
   let salida = document.querySelector("#salida").innerHTML;
   let resp = document.querySelector("#respuesta");
@@ -2390,12 +2392,16 @@ document.querySelector("#submit").addEventListener("click", e => {
 		${decoracion}%0A%0A
 	  *¿Cuál es el tamaño de la torta?*%0A
 		${tamaño}%0A%0A
+    *FECHA DE ENTREGA*%0A
+		${fechas}%0A%0A
+    *HORARIO*%0A
+		${horario}%0A%0A
     *Descripcion de la torta*%0A
 		${detalle}%0A%0A
     *Precio*%0A
 		${salida}%0A%0A`;
 
-  if (cliente === "" || listacremas === "") {
+  if (cliente === "" || listacremas === "" || detalle === "" || bizcochuelo === "" || cremas === "" || decoracion === "" || tamaño === "" || fechas === "" || horario === "") {
     resp.classList.add("fail");
     resp.innerHTML = `Faltan algunos datos, ${cliente}`;
     return false;
