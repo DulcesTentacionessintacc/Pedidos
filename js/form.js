@@ -520,52 +520,52 @@ else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO 
 // BIZCOCHUELO DE VAINILLA + DULCE DE LECHE REPOSTERO + 16 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5960";
+  document.getElementById("salida").innerHTML = "$6970";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7230";
+  document.getElementById("salida").innerHTML = "$8290";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$3880";
+  document.getElementById("salida").innerHTML = "$4580";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$4920";
+  document.getElementById("salida").innerHTML = "$5760";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6040";
+  document.getElementById("salida").innerHTML = "$7060";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7310";
+  document.getElementById("salida").innerHTML = "$8380";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$3960";
+  document.getElementById("salida").innerHTML = "$4660";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$4990";
+  document.getElementById("salida").innerHTML = "$5840";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6600";
+  document.getElementById("salida").innerHTML = "$7720";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7870";
+  document.getElementById("salida").innerHTML = "$9040";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$4520";
+  document.getElementById("salida").innerHTML = "$5320";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5550";
+  document.getElementById("salida").innerHTML = "$6500";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6780";
+  document.getElementById("salida").innerHTML = "$7900";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8050";
+  document.getElementById("salida").innerHTML = "$9220";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$4700";
+  document.getElementById("salida").innerHTML = "$5500";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5730";
+  document.getElementById("salida").innerHTML = "$6680";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY MIX FRUTAL" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
   document.getElementById("salida").innerHTML = "$";
@@ -580,221 +580,221 @@ else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LE
   document.getElementById("salida").innerHTML = "$";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6750";
+  document.getElementById("salida").innerHTML = "$7880";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8020";
+  document.getElementById("salida").innerHTML = "$9200";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$4670";
+  document.getElementById("salida").innerHTML = "$5480";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5700";
+  document.getElementById("salida").innerHTML = "$6660";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7100";
+  document.getElementById("salida").innerHTML = "$8230";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8370";
+  document.getElementById("salida").innerHTML = "$9550";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5010";
+  document.getElementById("salida").innerHTML = "$5840";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6050";
+  document.getElementById("salida").innerHTML = "$7020";
 }
 
 // BIZCOCHUELO DE VAINILLA + GANACHE NEGRO + 16 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7810";
+  document.getElementById("salida").innerHTML = "$8340";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8450";
+  document.getElementById("salida").innerHTML = "$9660";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5100";
+  document.getElementById("salida").innerHTML = "$5950";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6140";
+  document.getElementById("salida").innerHTML = "$7130";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7360";
+  document.getElementById("salida").innerHTML = "$8570";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8630";
+  document.getElementById("salida").innerHTML = "$9890";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5280";
+  document.getElementById("salida").innerHTML = "$6180";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6320";
+  document.getElementById("salida").innerHTML = "$7360";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7540";
+  document.getElementById("salida").innerHTML = "$8750";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8810";
+  document.getElementById("salida").innerHTML = "$10070";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5460";
+  document.getElementById("salida").innerHTML = "$6350";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6500";
+  document.getElementById("salida").innerHTML = "$7530";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7510";
+  document.getElementById("salida").innerHTML = "$8730";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8780";
+  document.getElementById("salida").innerHTML = "$10050";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5430";
+  document.getElementById("salida").innerHTML = "$6330";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6470";
+  document.getElementById("salida").innerHTML = "$7510";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6720";
+  document.getElementById("salida").innerHTML = "$7830";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8000";
+  document.getElementById("salida").innerHTML = "$9150";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$4640";
+  document.getElementById("salida").innerHTML = "$5430";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5680";
+  document.getElementById("salida").innerHTML = "$6610";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6800";
+  document.getElementById("salida").innerHTML = "$7910";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8070";
+  document.getElementById("salida").innerHTML = "$9230";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$4720";
+  document.getElementById("salida").innerHTML = "$5520";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5760";
+  document.getElementById("salida").innerHTML = "$6700";
 }
 
 // BIZCOCHUELO DE VAINILLA + GANACHE DE CHOCOLATE BLANCO CON MARROC + 16 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7380";
+  document.getElementById("salida").innerHTML = "$8560";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8650";
+  document.getElementById("salida").innerHTML = "$9880";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5300";
+  document.getElementById("salida").innerHTML = "$6160";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6340";
+  document.getElementById("salida").innerHTML = "$7340";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7530";
+  document.getElementById("salida").innerHTML = "$8720";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8800";
+  document.getElementById("salida").innerHTML = "$10040";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5450";
+  document.getElementById("salida").innerHTML = "$6320";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6490";
+  document.getElementById("salida").innerHTML = "$7500";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7110";
+  document.getElementById("salida").innerHTML = "$8220";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8390";
+  document.getElementById("salida").innerHTML = "$9540";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5030";
+  document.getElementById("salida").innerHTML = "$5820";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6070";
+  document.getElementById("salida").innerHTML = "$7000";
 }
 
 // BIZCOCHUELO DE VAINILLA + COMBINADO DE REPOSTERO CON GANACHE NEGRO + 16 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7030";
+  document.getElementById("salida").innerHTML = "$8210";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8310";
+  document.getElementById("salida").innerHTML = "$9530";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$4950";
+  document.getElementById("salida").innerHTML = "$5810";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5990";
+  document.getElementById("salida").innerHTML = "$6990";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7210";
+  document.getElementById("salida").innerHTML = "$8390";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8480";
+  document.getElementById("salida").innerHTML = "$9710";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5130";
+  document.getElementById("salida").innerHTML = "$5990";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6170";
+  document.getElementById("salida").innerHTML = "$7170";
 }
 
 
 //RELLENOS CON BIZCOCHUELO DE CHOCOLATE + DULCE DE LECHE REPOSTERO + 16 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6290";
+ document.getElementById("salida").innerHTML = "$7320";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7560";
+ document.getElementById("salida").innerHTML = "$8640";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$4210";
+ document.getElementById("salida").innerHTML = "$4920";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$5250";
+ document.getElementById("salida").innerHTML = "$6100";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6370";
+ document.getElementById("salida").innerHTML = "$7410";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7640";
+ document.getElementById("salida").innerHTML = "$8730";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$4290";
+ document.getElementById("salida").innerHTML = "$5010";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$5320";
+ document.getElementById("salida").innerHTML = "$6190";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6930";
+ document.getElementById("salida").innerHTML = "$8060";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8200";
+ document.getElementById("salida").innerHTML = "$9390";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$4850";
+ document.getElementById("salida").innerHTML = "$5670";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$5890";
+ document.getElementById("salida").innerHTML = "$6850";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7110";
+ document.getElementById("salida").innerHTML = "$8240";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8380";
+ document.getElementById("salida").innerHTML = "$9560";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$5030";
+ document.getElementById("salida").innerHTML = "$5850";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6060";
+ document.getElementById("salida").innerHTML = "$7030";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY MIX FRUTAL" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
  document.getElementById("salida").innerHTML = "$";
@@ -809,169 +809,169 @@ else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE L
  document.getElementById("salida").innerHTML = "$";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7080";
+ document.getElementById("salida").innerHTML = "$8220";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8350";
+ document.getElementById("salida").innerHTML = "$9540";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$5000";
+ document.getElementById("salida").innerHTML = "$5830";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6030";
+ document.getElementById("salida").innerHTML = "$7010";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7430";
+ document.getElementById("salida").innerHTML = "$8580";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8700";
+ document.getElementById("salida").innerHTML = "$9900";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$5350";
+ document.getElementById("salida").innerHTML = "$6180";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6380";
+ document.getElementById("salida").innerHTML = "$7360";
 }
 
 //RELLENOS CON BIZCOCHUELO DE CHOCOLATE + GANACHE DE CHOCOLATE NEGRO + 16 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7510";
+  document.getElementById("salida").innerHTML = "$8690";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8780";
+  document.getElementById("salida").innerHTML = "$10010";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5430";
+  document.getElementById("salida").innerHTML = "$6290";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6470";
+  document.getElementById("salida").innerHTML = "$7470";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7690";
+  document.getElementById("salida").innerHTML = "$8920";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8970";
+  document.getElementById("salida").innerHTML = "$10240";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5610";
+  document.getElementById("salida").innerHTML = "$6520";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6650";
+  document.getElementById("salida").innerHTML = "$7700";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7870";
+  document.getElementById("salida").innerHTML = "$9100";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9140";
+  document.getElementById("salida").innerHTML = "$10420";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5790";
+  document.getElementById("salida").innerHTML = "$6700";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6830";
+  document.getElementById("salida").innerHTML = "$7880";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7840";
+  document.getElementById("salida").innerHTML = "$9080";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9120";
+  document.getElementById("salida").innerHTML = "$10400";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5760";
+  document.getElementById("salida").innerHTML = "$6680";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6800";
+  document.getElementById("salida").innerHTML = "$7860";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7050";
+  document.getElementById("salida").innerHTML = "$8170";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8330";
+  document.getElementById("salida").innerHTML = "$9490";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$4970";
+  document.getElementById("salida").innerHTML = "$5780";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6010";
+  document.getElementById("salida").innerHTML = "$6960";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7130";
+  document.getElementById("salida").innerHTML = "$8260";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8400";
+  document.getElementById("salida").innerHTML = "$9580";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5050";
+  document.getElementById("salida").innerHTML = "$5860";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6090";
+  document.getElementById("salida").innerHTML = "$7040";
 }
 
 // BIZCOCHUELO DE CHOCOLATE + GANACHE DE CHOCOLATE BLANCO CON MARROC + 16 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7710";
+  document.getElementById("salida").innerHTML = "$8910";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8980";
+  document.getElementById("salida").innerHTML = "$10230";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5630";
+  document.getElementById("salida").innerHTML = "$6510";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6670";
+  document.getElementById("salida").innerHTML = "$7690";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7860";
+  document.getElementById("salida").innerHTML = "$9060";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9130";
+  document.getElementById("salida").innerHTML = "$10380";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5780";
+  document.getElementById("salida").innerHTML = "$6670";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6820";
+  document.getElementById("salida").innerHTML = "$7850";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7450";
+  document.getElementById("salida").innerHTML = "$8570";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8720";
+  document.getElementById("salida").innerHTML = "$9890";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5360";
+  document.getElementById("salida").innerHTML = "$6170";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6400";
+  document.getElementById("salida").innerHTML = "$7350";
 }
 
 // BIZCOCHUELO DE CHOCOLATE + COMBINADO DE REPOSTERO CON GANACHE NEGRO + 16 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7360";
+  document.getElementById("salida").innerHTML = "$8550";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8640";
+  document.getElementById("salida").innerHTML = "$9870";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5280";
+  document.getElementById("salida").innerHTML = "$6160";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6320";
+  document.getElementById("salida").innerHTML = "$7340";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7540";
+  document.getElementById("salida").innerHTML = "$8730";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8810";
+  document.getElementById("salida").innerHTML = "$10050";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5460";
+  document.getElementById("salida").innerHTML = "$6340";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "16 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6500";
+  document.getElementById("salida").innerHTML = "$7520";
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -980,52 +980,52 @@ else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO 
 // BIZCOCHUELO DE VAINILLA + DULCE DE LECHE REPOSTERO + 20 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7410";
+  document.getElementById("salida").innerHTML = "$8750";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8890";
+  document.getElementById("salida").innerHTML = "$10270";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$4790";
+  document.getElementById("salida").innerHTML = "$5720";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6110";
+  document.getElementById("salida").innerHTML = "$7230";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8520";
+  document.getElementById("salida").innerHTML = "$9880";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9990";
+  document.getElementById("salida").innerHTML = "$11400";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$4980";
+  document.getElementById("salida").innerHTML = "$5930";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6300";
+  document.getElementById("salida").innerHTML = "$7440";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8160";
+  document.getElementById("salida").innerHTML = "$9610";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9640";
+  document.getElementById("salida").innerHTML = "$11130";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5540";
+  document.getElementById("salida").innerHTML = "$6580";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6860";
+  document.getElementById("salida").innerHTML = "$8090";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8280";
+  document.getElementById("salida").innerHTML = "$9710";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9750";
+  document.getElementById("salida").innerHTML = "$11230";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5650";
+  document.getElementById("salida").innerHTML = "$6680";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6980";
+  document.getElementById("salida").innerHTML = "$8190";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY MIX FRUTAL" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
   document.getElementById("salida").innerHTML = "$";
@@ -1040,221 +1040,221 @@ else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LE
   document.getElementById("salida").innerHTML = "$";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8310";
+  document.getElementById("salida").innerHTML = "$9770";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9780";
+  document.getElementById("salida").innerHTML = "$11290";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5690";
+  document.getElementById("salida").innerHTML = "$6740";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7010";
+  document.getElementById("salida").innerHTML = "$8250";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8790";
-}
-else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
   document.getElementById("salida").innerHTML = "$10260";
 }
+else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
+  document.getElementById("salida").innerHTML = "$11780";
+}
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6170";
+  document.getElementById("salida").innerHTML = "$7230";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7490";
+  document.getElementById("salida").innerHTML = "$8740";
 }
 
 // BIZCOCHUELO DE VAINILLA + GANACHE NEGRO + 20 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9090";
+  document.getElementById("salida").innerHTML = "$10630";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10560";
+  document.getElementById("salida").innerHTML = "$12160";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6460";
+  document.getElementById("salida").innerHTML = "$7610";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7790";
+  document.getElementById("salida").innerHTML = "$9120";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9130";
+  document.getElementById("salida").innerHTML = "$10700";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10610";
+  document.getElementById("salida").innerHTML = "$12220";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6510";
+  document.getElementById("salida").innerHTML = "$7670";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7830";
+  document.getElementById("salida").innerHTML = "$9190";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9250";
+  document.getElementById("salida").innerHTML = "$10800";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10730";
+  document.getElementById("salida").innerHTML = "$12320";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6630";
+  document.getElementById("salida").innerHTML = "$7770";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7950";
-}
-else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
   document.getElementById("salida").innerHTML = "$9280";
 }
+else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
+  document.getElementById("salida").innerHTML = "$10860";
+}
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10760";
+  document.getElementById("salida").innerHTML = "$12380";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6660";
+  document.getElementById("salida").innerHTML = "$7830";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7980";
+  document.getElementById("salida").innerHTML = "$9340";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8390";
+  document.getElementById("salida").innerHTML = "$9840";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9860";
+  document.getElementById("salida").innerHTML = "$11360";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5760";
+  document.getElementById("salida").innerHTML = "$6810";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7080";
+  document.getElementById("salida").innerHTML = "$8320";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8570";
-}
-else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
   document.getElementById("salida").innerHTML = "$10050";
 }
+else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
+  document.getElementById("salida").innerHTML = "$11570";
+}
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5950";
+  document.getElementById("salida").innerHTML = "$7020";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7270";
+  document.getElementById("salida").innerHTML = "$8530";
 }
 
 // BIZCOCHUELO DE VAINILLA + GANACHE DE CHOCOLATE BLANCO CON MARROC + 20 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9420";
+  document.getElementById("salida").innerHTML = "$10990";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10900";
+  document.getElementById("salida").innerHTML = "$12510";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6800";
+  document.getElementById("salida").innerHTML = "$7960";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8120";
+  document.getElementById("salida").innerHTML = "$9480";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9570";
+  document.getElementById("salida").innerHTML = "$11150";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11050";
+  document.getElementById("salida").innerHTML = "$12670";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6950";
+  document.getElementById("salida").innerHTML = "$8120";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8270";
+  document.getElementById("salida").innerHTML = "$9630";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9080";
-}
-else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
   document.getElementById("salida").innerHTML = "$10550";
 }
+else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
+  document.getElementById("salida").innerHTML = "$12070";
+}
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6450";
+  document.getElementById("salida").innerHTML = "$7520";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7770";
+  document.getElementById("salida").innerHTML = "$9030";
 }
 
 // BIZCOCHUELO DE VAINILLA + COMBINADO DE REPOSTERO CON GANACHE NEGRO + 20 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8700";
+  document.getElementById("salida").innerHTML = "$10220";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10170";
+  document.getElementById("salida").innerHTML = "$11740";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6080";
+  document.getElementById("salida").innerHTML = "$7190";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7400";
+  document.getElementById("salida").innerHTML = "$8700";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8820";
+  document.getElementById("salida").innerHTML = "$10320";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10290";
+  document.getElementById("salida").innerHTML = "$11840";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6190";
+  document.getElementById("salida").innerHTML = "$7290";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7520";
+  document.getElementById("salida").innerHTML = "$8800";
 }
 
 
 //RELLENOS CON BIZCOCHUELO DE CHOCOLATE + DULCE DE LECHE REPOSTERO + 20 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7990";
+ document.getElementById("salida").innerHTML = "$9350";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$9470";
+ document.getElementById("salida").innerHTML = "$10880";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$5370";
+ document.getElementById("salida").innerHTML = "$6330";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6690";
+ document.getElementById("salida").innerHTML = "$7840";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8180";
+ document.getElementById("salida").innerHTML = "$9560";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$9650";
+ document.getElementById("salida").innerHTML = "$11090";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$5560";
+ document.getElementById("salida").innerHTML = "$6540";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6880";
+ document.getElementById("salida").innerHTML = "$8050";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8740";
-}
-else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
  document.getElementById("salida").innerHTML = "$10210";
 }
+else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
+ document.getElementById("salida").innerHTML = "$11740";
+}
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6120";
+ document.getElementById("salida").innerHTML = "$7190";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7440";
+ document.getElementById("salida").innerHTML = "$8700";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8860";
+ document.getElementById("salida").innerHTML = "$10310";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$10330";
+ document.getElementById("salida").innerHTML = "$11840";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6230";
+ document.getElementById("salida").innerHTML = "$7290";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7550";
+ document.getElementById("salida").innerHTML = "$8800";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY MIX FRUTAL" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
  document.getElementById("salida").innerHTML = "$";
@@ -1269,169 +1269,169 @@ else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE L
  document.getElementById("salida").innerHTML = "$";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8890";
+ document.getElementById("salida").innerHTML = "$10370";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$10360";
+ document.getElementById("salida").innerHTML = "$11900";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6270";
+ document.getElementById("salida").innerHTML = "$7350";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7590";
+ document.getElementById("salida").innerHTML = "$8860";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$9370";
+ document.getElementById("salida").innerHTML = "$10870";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$10840";
+ document.getElementById("salida").innerHTML = "$12390";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6740";
+ document.getElementById("salida").innerHTML = "$7840";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8060";
+ document.getElementById("salida").innerHTML = "$9350";
 }
 
 //RELLENOS CON BIZCOCHUELO DE CHOCOLATE + GANACHE DE CHOCOLATE NEGRO + 20 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9670";
+  document.getElementById("salida").innerHTML = "$11240";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11140";
+  document.getElementById("salida").innerHTML = "$12760";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7040";
+  document.getElementById("salida").innerHTML = "$8210";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8360";
+  document.getElementById("salida").innerHTML = "$9720";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9710";
-}
-else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11190";
-}
-else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7090";
-}
-else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8410";
-}
-else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9830";
-}
-else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
   document.getElementById("salida").innerHTML = "$11310";
 }
+else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
+  document.getElementById("salida").innerHTML = "$12830";
+}
+else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
+  document.getElementById("salida").innerHTML = "$8280";
+}
+else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
+  document.getElementById("salida").innerHTML = "$9790";
+}
+else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
+  document.getElementById("salida").innerHTML = "$11410";
+}
+else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
+  document.getElementById("salida").innerHTML = "$12930";
+}
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7210";
+  document.getElementById("salida").innerHTML = "$8380";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8530";
+  document.getElementById("salida").innerHTML = "$9890";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9860";
+  document.getElementById("salida").innerHTML = "$11460";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11340";
+  document.getElementById("salida").innerHTML = "$12990";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7240";
+  document.getElementById("salida").innerHTML = "$8440";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8560";
+  document.getElementById("salida").innerHTML = "$9950";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8960";
+  document.getElementById("salida").innerHTML = "$10450";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10440";
+  document.getElementById("salida").innerHTML = "$11970";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6340";
+  document.getElementById("salida").innerHTML = "$7420";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7660";
+  document.getElementById("salida").innerHTML = "$8930";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9150";
+  document.getElementById("salida").innerHTML = "$10660";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10630";
+  document.getElementById("salida").innerHTML = "$12180";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6530";
+  document.getElementById("salida").innerHTML = "$7630";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7850";
+  document.getElementById("salida").innerHTML = "$9140";
 }
 
 // BIZCOCHUELO DE CHOCOLATE + GANACHE DE CHOCOLATE BLANCO CON MARROC + 20 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9310";
+  document.getElementById("salida").innerHTML = "$10810";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10790";
+  document.getElementById("salida").innerHTML = "$12330";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6690";
+  document.getElementById("salida").innerHTML = "$7780";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8010";
+  document.getElementById("salida").innerHTML = "$9290";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9460";
+  document.getElementById("salida").innerHTML = "$10960";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10940";
+  document.getElementById("salida").innerHTML = "$12490";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6840";
+  document.getElementById("salida").innerHTML = "$7940";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8160";
+  document.getElementById("salida").innerHTML = "$9450";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8960";
+  document.getElementById("salida").innerHTML = "$10370";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10440";
+  document.getElementById("salida").innerHTML = "$11890";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6340";
+  document.getElementById("salida").innerHTML = "$7340";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7660";
+  document.getElementById("salida").innerHTML = "$8850";
 }
 
 // BIZCOCHUELO DE CHOCOLATE + COMBINADO DE REPOSTERO CON GANACHE NEGRO + 20 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9280";
+  document.getElementById("salida").innerHTML = "$10820";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10750";
+  document.getElementById("salida").innerHTML = "$12350";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6660";
+  document.getElementById("salida").innerHTML = "$7800";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7980";
+  document.getElementById("salida").innerHTML = "$9310";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9400";
+  document.getElementById("salida").innerHTML = "$10920";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10870";
+  document.getElementById("salida").innerHTML = "$12450";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6770";
+  document.getElementById("salida").innerHTML = "$7900";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "20 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8090";
+  document.getElementById("salida").innerHTML = "$9410";
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -1440,52 +1440,52 @@ else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO 
 // BIZCOCHUELO DE VAINILLA + DULCE DE LECHE REPOSTERO + 24 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9180";
+  document.getElementById("salida").innerHTML = "$10880";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10700";
+  document.getElementById("salida").innerHTML = "$12400";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$5860";
+  document.getElementById("salida").innerHTML = "$7020";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7530";
+  document.getElementById("salida").innerHTML = "$8950";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9420";
+  document.getElementById("salida").innerHTML = "$11140";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10940";
+  document.getElementById("salida").innerHTML = "$12670";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6090";
+  document.getElementById("salida").innerHTML = "$7280";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7760";
+  document.getElementById("salida").innerHTML = "$9210";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10060";
+  document.getElementById("salida").innerHTML = "$11880";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11580";
+  document.getElementById("salida").innerHTML = "$13410";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6740";
+  document.getElementById("salida").innerHTML = "$8030";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8400";
+  document.getElementById("salida").innerHTML = "$9960";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10300";
+  document.getElementById("salida").innerHTML = "$12120";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11810";
+  document.getElementById("salida").innerHTML = "$13650";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6970";
+  document.getElementById("salida").innerHTML = "$8270";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8640";
+  document.getElementById("salida").innerHTML = "$10200";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY MIX FRUTAL" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
   document.getElementById("salida").innerHTML = "$";
@@ -1500,221 +1500,221 @@ else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LE
   document.getElementById("salida").innerHTML = "$";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10260";
+  document.getElementById("salida").innerHTML = "$12090";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11780";
+  document.getElementById("salida").innerHTML = "$13620";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6930";
+  document.getElementById("salida").innerHTML = "$8240";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8600";
+  document.getElementById("salida").innerHTML = "$10170";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10800";
+  document.getElementById("salida").innerHTML = "$12640";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12320";
+  document.getElementById("salida").innerHTML = "$14170";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7470";
+  document.getElementById("salida").innerHTML = "$8790";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9140";
+  document.getElementById("salida").innerHTML = "$10720";
 }
 
 // BIZCOCHUELO DE VAINILLA + GANACHE NEGRO + 24 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11080";
+  document.getElementById("salida").innerHTML = "$12990";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12590";
+  document.getElementById("salida").innerHTML = "$14520";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7750";
+  document.getElementById("salida").innerHTML = "$9140";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9420";
+  document.getElementById("salida").innerHTML = "$11060";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11250";
+  document.getElementById("salida").innerHTML = "$13210";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12760";
+  document.getElementById("salida").innerHTML = "$14740";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7920";
+  document.getElementById("salida").innerHTML = "$9360";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9590";
+  document.getElementById("salida").innerHTML = "$11290";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11480";
+  document.getElementById("salida").innerHTML = "$13450";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13000";
+  document.getElementById("salida").innerHTML = "$14980";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8160";
+  document.getElementById("salida").innerHTML = "$9600";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9830";
+  document.getElementById("salida").innerHTML = "$11530";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11450";
+  document.getElementById("salida").innerHTML = "$13420";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12960";
+  document.getElementById("salida").innerHTML = "$14950";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8120";
+  document.getElementById("salida").innerHTML = "$9570";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9790";
+  document.getElementById("salida").innerHTML = "$11500";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10370";
+  document.getElementById("salida").innerHTML = "$12210";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11890";
+  document.getElementById("salida").innerHTML = "$13740";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7040";
+  document.getElementById("salida").innerHTML = "$8350";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8710";
+  document.getElementById("salida").innerHTML = "$10280";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10610";
+  document.getElementById("salida").innerHTML = "$12470";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12120";
+  document.getElementById("salida").innerHTML = "$14000";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7280";
+  document.getElementById("salida").innerHTML = "$8610";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8950";
+  document.getElementById("salida").innerHTML = "$10540";
 }
 
 // BIZCOCHUELO DE VAINILLA + GANACHE DE CHOCOLATE BLANCO CON MARROC + 24 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11420";
+  document.getElementById("salida").innerHTML = "$13340";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12940";
+  document.getElementById("salida").innerHTML = "$14870";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8100";
+  document.getElementById("salida").innerHTML = "$9490";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9770";
+  document.getElementById("salida").innerHTML = "$11420";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11620";
+  document.getElementById("salida").innerHTML = "$13550";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13140";
+  document.getElementById("salida").innerHTML = "$15080";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8300";
+  document.getElementById("salida").innerHTML = "$9700";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9970";
+  document.getElementById("salida").innerHTML = "$11630";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10980";
+  document.getElementById("salida").innerHTML = "$12770";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12490";
+  document.getElementById("salida").innerHTML = "$14300";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7650";
+  document.getElementById("salida").innerHTML = "$8920";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9320";
+  document.getElementById("salida").innerHTML = "$10850";
 }
 
 // BIZCOCHUELO DE VAINILLA + COMBINADO DE REPOSTERO CON GANACHE NEGRO + 24 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10710";
+  document.getElementById("salida").innerHTML = "$12610";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12220";
+  document.getElementById("salida").innerHTML = "$14140";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7380";
+  document.getElementById("salida").innerHTML = "$8750";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9050";
+  document.getElementById("salida").innerHTML = "$10680";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10940";
+  document.getElementById("salida").innerHTML = "$12850";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12460";
+  document.getElementById("salida").innerHTML = "$14380";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7620";
+  document.getElementById("salida").innerHTML = "$8990";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9290";
+  document.getElementById("salida").innerHTML = "$10920";
 }
 
 
 //RELLENOS CON BIZCOCHUELO DE CHOCOLATE + DULCE DE LECHE REPOSTERO + 24 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$9810";
+ document.getElementById("salida").innerHTML = "$11530";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$11330";
+ document.getElementById("salida").innerHTML = "$13060";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6480";
+ document.getElementById("salida").innerHTML = "$7680";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8150";
+ document.getElementById("salida").innerHTML = "$9610";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$10050";
+ document.getElementById("salida").innerHTML = "$11790";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$11560";
+ document.getElementById("salida").innerHTML = "$13320";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$6720";
+ document.getElementById("salida").innerHTML = "$7940";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8390";
+ document.getElementById("salida").innerHTML = "$9870";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$10690";
+ document.getElementById("salida").innerHTML = "$12540";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$12210";
+ document.getElementById("salida").innerHTML = "$14070";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7360";
+ document.getElementById("salida").innerHTML = "$8680";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$9030";
+ document.getElementById("salida").innerHTML = "$10610";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$10930";
+ document.getElementById("salida").innerHTML = "$12780";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$12440";
+ document.getElementById("salida").innerHTML = "$14310";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7600";
+ document.getElementById("salida").innerHTML = "$8920";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$9270";
+ document.getElementById("salida").innerHTML = "$10850";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY MIX FRUTAL" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
  document.getElementById("salida").innerHTML = "$";
@@ -1729,169 +1729,169 @@ else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE L
  document.getElementById("salida").innerHTML = "$";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$10890";
+ document.getElementById("salida").innerHTML = "$12750";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$12400";
+ document.getElementById("salida").innerHTML = "$14280";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7560";
+ document.getElementById("salida").innerHTML = "$8890";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$9230";
+ document.getElementById("salida").innerHTML = "$10820";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$11430";
+ document.getElementById("salida").innerHTML = "$13300";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$12940";
+ document.getElementById("salida").innerHTML = "$14830";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8100";
+ document.getElementById("salida").innerHTML = "$9440";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
- document.getElementById("salida").innerHTML = "$9770";
+ document.getElementById("salida").innerHTML = "$11370";
 }
 
 //RELLENOS CON BIZCOCHUELO DE CHOCOLATE + GANACHE DE CHOCOLATE NEGRO + 24 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10700";
+  document.getElementById("salida").innerHTML = "$13650";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13220";
+  document.getElementById("salida").innerHTML = "$15180";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8380";
+  document.getElementById("salida").innerHTML = "$9790";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10050";
+  document.getElementById("salida").innerHTML = "$11720";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11870";
+  document.getElementById("salida").innerHTML = "$13870";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13390";
+  document.getElementById("salida").innerHTML = "$15400";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8550";
+  document.getElementById("salida").innerHTML = "$10010";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10220";
+  document.getElementById("salida").innerHTML = "$11940";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12110";
+  document.getElementById("salida").innerHTML = "$14110";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13630";
+  document.getElementById("salida").innerHTML = "$15640";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8780";
+  document.getElementById("salida").innerHTML = "$10250";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10450";
+  document.getElementById("salida").innerHTML = "$12180";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12070";
+  document.getElementById("salida").innerHTML = "$14080";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13590";
+  document.getElementById("salida").innerHTML = "$15610";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8750";
+  document.getElementById("salida").innerHTML = "$10220";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10420";
+  document.getElementById("salida").innerHTML = "$12150";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11000";
+  document.getElementById("salida").innerHTML = "$12860";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12510";
+  document.getElementById("salida").innerHTML = "$14390";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7670";
+  document.getElementById("salida").innerHTML = "$9010";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9340";
+  document.getElementById("salida").innerHTML = "$10940";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11230";
+  document.getElementById("salida").innerHTML = "$13130";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12750";
+  document.getElementById("salida").innerHTML = "$14650";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7910";
+  document.getElementById("salida").innerHTML = "$9270";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9580";
+  document.getElementById("salida").innerHTML = "$11200";
 }
 
 // BIZCOCHUELO DE CHOCOLATE + GANACHE DE CHOCOLATE BLANCO CON MARROC + 24 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11050";
+  document.getElementById("salida").innerHTML = "$12880";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12570";
+  document.getElementById("salida").innerHTML = "$14410";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7730";
+  document.getElementById("salida").innerHTML = "$9030";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9390";
+  document.getElementById("salida").innerHTML = "$10960";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11250";
+  document.getElementById("salida").innerHTML = "$13090";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12770";
+  document.getElementById("salida").innerHTML = "$14620";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7920";
+  document.getElementById("salida").innerHTML = "$9240";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9590";
+  document.getElementById("salida").innerHTML = "$11170";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10600";
+  document.getElementById("salida").innerHTML = "$12310";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12120";
+  document.getElementById("salida").innerHTML = "$13840";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7280";
+  document.getElementById("salida").innerHTML = "$8460";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8950";
+  document.getElementById("salida").innerHTML = "$10390";
 }
 
 // BIZCOCHUELO DE CHOCOLATE + COMBINADO DE REPOSTERO CON GANACHE NEGRO + 24 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11330";
+  document.getElementById("salida").innerHTML = "$13270";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12850";
+  document.getElementById("salida").innerHTML = "$14790";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8010";
+  document.getElementById("salida").innerHTML = "$9410";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9680";
+  document.getElementById("salida").innerHTML = "$11340";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11570";
+  document.getElementById("salida").innerHTML = "$13510";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13090";
+  document.getElementById("salida").innerHTML = "$15030";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8240";
+  document.getElementById("salida").innerHTML = "$9650";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "24 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9910";
+  document.getElementById("salida").innerHTML = "$11580";
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -1900,52 +1900,52 @@ else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO 
 // BIZCOCHUELO DE VAINILLA + DULCE DE LECHE REPOSTERO + 30 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10880";
+  document.getElementById("salida").innerHTML = "$13150";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12510";
+  document.getElementById("salida").innerHTML = "$14680";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6280";
+  document.getElementById("salida").innerHTML = "$7770";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7970";
+  document.getElementById("salida").innerHTML = "$9650";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11170";
+  document.getElementById("salida").innerHTML = "$13470";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12800";
+  document.getElementById("salida").innerHTML = "$14990";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$6560";
+  document.getElementById("salida").innerHTML = "$8080";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8260";
+  document.getElementById("salida").innerHTML = "$9970";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11980";
+  document.getElementById("salida").innerHTML = "$14410";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13610";
+  document.getElementById("salida").innerHTML = "$15930";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7380";
+  document.getElementById("salida").innerHTML = "$9020";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9070";
+  document.getElementById("salida").innerHTML = "$10910";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12120";
+  document.getElementById("salida").innerHTML = "$14500";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13750";
+  document.getElementById("salida").innerHTML = "$16020";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7510";
+  document.getElementById("salida").innerHTML = "$9120";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9210";
+  document.getElementById("salida").innerHTML = "$11000";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY MIX FRUTAL" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
   document.getElementById("salida").innerHTML = "$";
@@ -1960,221 +1960,221 @@ else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LE
   document.getElementById("salida").innerHTML = "$";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12280";
+  document.getElementById("salida").innerHTML = "$14720";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13910";
+  document.getElementById("salida").innerHTML = "$16250";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7680";
+  document.getElementById("salida").innerHTML = "$9340";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9370";
+  document.getElementById("salida").innerHTML = "$11230";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12570";
+  document.getElementById("salida").innerHTML = "$14980";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14200";
+  document.getElementById("salida").innerHTML = "$16500";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7970";
+  document.getElementById("salida").innerHTML = "$9590";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9660";
+  document.getElementById("salida").innerHTML = "$11480";
 }
 
 // BIZCOCHUELO DE VAINILLA + GANACHE NEGRO + 30 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12850";
+  document.getElementById("salida").innerHTML = "$15330";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14480";
+  document.getElementById("salida").innerHTML = "$16850";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8240";
-}
-else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
   document.getElementById("salida").innerHTML = "$9940";
 }
+else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
+  document.getElementById("salida").innerHTML = "$11830";
+}
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13210";
+  document.getElementById("salida").innerHTML = "$15780";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14840";
+  document.getElementById("salida").innerHTML = "$17310";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8610";
+  document.getElementById("salida").innerHTML = "$10400";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10300";
+  document.getElementById("salida").innerHTML = "$12290";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13340";
+  document.getElementById("salida").innerHTML = "$15880";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14970";
+  document.getElementById("salida").innerHTML = "$17400";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8740";
+  document.getElementById("salida").innerHTML = "$10490";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10430";
+  document.getElementById("salida").innerHTML = "$12380";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13510";
+  document.getElementById("salida").innerHTML = "$16100";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$15140";
+  document.getElementById("salida").innerHTML = "$17620";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8900";
+  document.getElementById("salida").innerHTML = "$10710";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10600";
+  document.getElementById("salida").innerHTML = "$12600";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12110";
+  document.getElementById("salida").innerHTML = "$14530";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13740";
+  document.getElementById("salida").innerHTML = "$16050";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7510";
+  document.getElementById("salida").innerHTML = "$9140";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9200";
+  document.getElementById("salida").innerHTML = "$11030";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12400";
+  document.getElementById("salida").innerHTML = "$14840";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14030";
+  document.getElementById("salida").innerHTML = "$16360";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$7790";
+  document.getElementById("salida").innerHTML = "$9460";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9480";
+  document.getElementById("salida").innerHTML = "$11340";
 }
 
 // BIZCOCHUELO DE VAINILLA + GANACHE DE CHOCOLATE BLANCO CON MARROC + 30 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13630";
+  document.getElementById("salida").innerHTML = "$16180";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$15260";
+  document.getElementById("salida").innerHTML = "$17700";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9020";
+  document.getElementById("salida").innerHTML = "$10790";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10720";
+  document.getElementById("salida").innerHTML = "$12680";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13930";
+  document.getElementById("salida").innerHTML = "$16490";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$15560";
+  document.getElementById("salida").innerHTML = "$18010";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9320";
+  document.getElementById("salida").innerHTML = "$11110";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11020";
-}
-else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
   document.getElementById("salida").innerHTML = "$12990";
 }
+else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
+  document.getElementById("salida").innerHTML = "$15370";
+}
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14620";
+  document.getElementById("salida").innerHTML = "$16890";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8390";
+  document.getElementById("salida").innerHTML = "$9990";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10080";
+  document.getElementById("salida").innerHTML = "$11870";
 }
 
 // BIZCOCHUELO DE VAINILLA + COMBINADO DE REPOSTERO CON GANACHE NEGRO + 30 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12750";
+  document.getElementById("salida").innerHTML = "$15280";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14380";
+  document.getElementById("salida").innerHTML = "$16810";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8150";
+  document.getElementById("salida").innerHTML = "$9900";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9840";
+  document.getElementById("salida").innerHTML = "$11790";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12890";
+  document.getElementById("salida").innerHTML = "$15380";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14520";
+  document.getElementById("salida").innerHTML = "$16900";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8280";
+  document.getElementById("salida").innerHTML = "$9990";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE VAINILLA" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9980";
+  document.getElementById("salida").innerHTML = "$11880";
 }
 
 
 //RELLENOS CON BIZCOCHUELO DE CHOCOLATE + DULCE DE LECHE REPOSTERO + 30 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$11710";
+ document.getElementById("salida").innerHTML = "$14020";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$13340";
+ document.getElementById("salida").innerHTML = "$15540";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7110";
+ document.getElementById("salida").innerHTML = "$8630";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8800";
+ document.getElementById("salida").innerHTML = "$10520";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$11990";
+ document.getElementById("salida").innerHTML = "$14330";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$13620";
+ document.getElementById("salida").innerHTML = "$15860";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$7390";
+ document.getElementById("salida").innerHTML = "$8950";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$9080";
+ document.getElementById("salida").innerHTML = "$10840";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$12810";
+ document.getElementById("salida").innerHTML = "$15280";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$14440";
+ document.getElementById("salida").innerHTML = "$16800";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8200";
+ document.getElementById("salida").innerHTML = "$9890";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$9900";
+ document.getElementById("salida").innerHTML = "$11780";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$12940";
+ document.getElementById("salida").innerHTML = "$15370";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$14570";
+ document.getElementById("salida").innerHTML = "$16890";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8340";
+ document.getElementById("salida").innerHTML = "$9980";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$10030";
+ document.getElementById("salida").innerHTML = "$11870";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CHANTILLY MIX FRUTAL" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
  document.getElementById("salida").innerHTML = "$";
@@ -2189,169 +2189,169 @@ else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE L
  document.getElementById("salida").innerHTML = "$";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$13110";
+ document.getElementById("salida").innerHTML = "$15590";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$14740";
+ document.getElementById("salida").innerHTML = "$17110";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8500";
+ document.getElementById("salida").innerHTML = "$10210";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$10200";
+ document.getElementById("salida").innerHTML = "$12090";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$13400";
+ document.getElementById("salida").innerHTML = "$15840";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$15030";
+ document.getElementById("salida").innerHTML = "$17370";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$8790";
+ document.getElementById("salida").innerHTML = "$10460";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "DULCE DE LECHE REPOSTERO" && cremas == "GANACHE DE CHOCOLATE NEGRO" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
- document.getElementById("salida").innerHTML = "$10490";
+ document.getElementById("salida").innerHTML = "$12350";
 }
 
 //RELLENOS CON BIZCOCHUELO DE CHOCOLATE + GANACHE DE CHOCOLATE NEGRO + 30 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13670";
+  document.getElementById("salida").innerHTML = "$16190";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$15300";
+  document.getElementById("salida").innerHTML = "$17710";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9070";
+  document.getElementById("salida").innerHTML = "$10810";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "COMBINADO DE REPOSTERO CON CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10760";
+  document.getElementById("salida").innerHTML = "$12690";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14040";
+  document.getElementById("salida").innerHTML = "$16650";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$15670";
+  document.getElementById("salida").innerHTML = "$18170";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9430";
+  document.getElementById("salida").innerHTML = "$11270";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11130";
+  document.getElementById("salida").innerHTML = "$13150";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14170";
+  document.getElementById("salida").innerHTML = "$16740";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$15800";
+  document.getElementById("salida").innerHTML = "$18270";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9570";
+  document.getElementById("salida").innerHTML = "$11360";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11260";
+  document.getElementById("salida").innerHTML = "$13240";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14340";
+  document.getElementById("salida").innerHTML = "$16970";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$15970";
+  document.getElementById("salida").innerHTML = "$18490";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9730";
+  document.getElementById("salida").innerHTML = "$11580";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11420";
+  document.getElementById("salida").innerHTML = "$13470";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$12940";
+  document.getElementById("salida").innerHTML = "$15390";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14570";
+  document.getElementById("salida").innerHTML = "$16920";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8330";
+  document.getElementById("salida").innerHTML = "$10010";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA PASTELERA" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10030";
+  document.getElementById("salida").innerHTML = "$11900";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13220";
+  document.getElementById("salida").innerHTML = "$15710";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14850";
+  document.getElementById("salida").innerHTML = "$17230";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8620";
+  document.getElementById("salida").innerHTML = "$10320";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE DE CHOCOLATE NEGRO" && cremas == "CREMA CHOCOLATE BLANCO" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10310";
+  document.getElementById("salida").innerHTML = "$12210";
 }
 
 // BIZCOCHUELO DE CHOCOLATE + GANACHE DE CHOCOLATE BLANCO CON MARROC + 30 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14460";
+  document.getElementById("salida").innerHTML = "$17040";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$16090";
+  document.getElementById("salida").innerHTML = "$18570";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9850";
+  document.getElementById("salida").innerHTML = "$11660";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11540";
+  document.getElementById("salida").innerHTML = "$13540";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$14750";
+  document.getElementById("salida").innerHTML = "$17360";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$16380";
+  document.getElementById("salida").innerHTML = "$18880";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10150";
+  document.getElementById("salida").innerHTML = "$11970";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "CREMA MOCCA" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$11840";
+  document.getElementById("salida").innerHTML = "$13860";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13820";
+  document.getElementById("salida").innerHTML = "$16240";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$15450";
+  document.getElementById("salida").innerHTML = "$17760";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9210";
+  document.getElementById("salida").innerHTML = "$10850";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "GANACHE BLANCO CON MARROC" && cremas == "DULCE DE LECHE REPOSTERO" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10910";
+  document.getElementById("salida").innerHTML = "$12740";
 }
 
 // BIZCOCHUELO DE CHOCOLATE + COMBINADO DE REPOSTERO CON GANACHE NEGRO + 30 PORCIONES
 
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13580";
+  document.getElementById("salida").innerHTML = "$16150";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$15210";
+  document.getElementById("salida").innerHTML = "$17670";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$8980";
+  document.getElementById("salida").innerHTML = "$10760";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10670";
+  document.getElementById("salida").innerHTML = "$12650";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "CREMA DE LECHE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$13710";
+  document.getElementById("salida").innerHTML = "$16240";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "GANACHE DE CHOCOLATE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$15340";
+  document.getElementById("salida").innerHTML = "$17770";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "MERENGUE" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$9110";
+  document.getElementById("salida").innerHTML = "$10860";
 }
 else if (bizcochuelo == "BIZCOCHUELO DE CHOCOLATE" && listacremas == "COMBINADO DE REPOSTERO CON GANACHE NEGRO" && cremas == "CHANTILLY CON FRUTOS ROJOS" && decoracion == "BUTTERCREAM" && tamaño == "30 PORCIONES"){
-  document.getElementById("salida").innerHTML = "$10800";
+  document.getElementById("salida").innerHTML = "$12740";
 }
 else{}
 }
